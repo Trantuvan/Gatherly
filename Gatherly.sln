@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gatherly.Domain", "Gatherly.Domain\Gatherly.Domain.csproj", "{D441BDBB-1F96-4789-8922-EA6178A8DA3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gatherly.Application", "Gatherly.Application\Gatherly.Application.csproj", "{774BCC43-D7F2-4542-8560-BDCD1EA1EB2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D441BDBB-1F96-4789-8922-EA6178A8DA3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D441BDBB-1F96-4789-8922-EA6178A8DA3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D441BDBB-1F96-4789-8922-EA6178A8DA3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D441BDBB-1F96-4789-8922-EA6178A8DA3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{774BCC43-D7F2-4542-8560-BDCD1EA1EB2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{774BCC43-D7F2-4542-8560-BDCD1EA1EB2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{774BCC43-D7F2-4542-8560-BDCD1EA1EB2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{774BCC43-D7F2-4542-8560-BDCD1EA1EB2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30D02872-E96D-4EF0-8A39-EF6363DE14F5}
+	EndGlobalSection
+EndGlobal
